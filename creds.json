@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "symmetric-lotus-412411",
+  "private_key_id": "59cc94fbce130bbb471fa0d40bf103ac2c2768cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDoyJT5lOAGgqio\nE/GbxE+cTFUoZFxv7ILNdko3ePPgQy/E46NjJF2ItgZCdgwJ/rSTBDsqFJKyIGTV\nlKBaWwM66AyXb3sxiIPHHS9DLWXWEhN9BtdoAUIhKzeyhTfo2O8/q3giZS5gVdSD\nO+i82YZfy5mhQj3VtmfiF7tyPOnrl26TtW1FRgfJqq1WuLpzrSAjisyjz7HFJEhN\nVmny0W1IuFcOz4XgmGxU405Ocxm7j/f1WgtiQXComy3eLUnziI26tuz3PmZlNSGc\nVDW4zBWMpHxQI9aszJqZsWwn2x/+u1GVhViW8pJ3je0LwCj4To2USEK0vT68d6DF\nc3NBKsaBAgMBAAECggEABFkrLj0q5k2RGWBTqa9uthqCFzjGYMQECVLpuJRNSEMd\nB0eiIlHtijDt7ZZ6AQL1jCRUDMQjst6HylUQyJX4DxpCp56vnY7hePSpZg74/rkU\nTTLgOctB49p5sNTL+kZOHswk+KMs96P2zf5Dyaj4ZChKmKsYT6+3oaRZmNJSOMzl\n3Ga+L/Kc4ycfAOIHH4yEYDq6dSzKAgSrLGm2Xw3NGVXmt1Z7bFOPqi9C2aeV+isB\ndmM3aehGHs3gA4q/4rTzmydvB05BVhcIjhEcOWTELEYpXtFQbMVTmfW0gB4XmlWq\nqpXhDZri1BWgha+c+iDBheFA0/vpvr5LjrJ6R3nwiQKBgQD3PwBy1CKI1Xeubbzc\nTB+xw+/YZYnfddbDteRrLFq/EvzSAfkI+gsHrNo31JUBWdQOpAxyvx0t3KFxrqDV\nSZZDE1/aG3yFVwi9qFMSnR1PsIBu4If52mTodZy6k92hGmkV9mOz81BV6WpUbTe8\n04p9NDLrc4+eG/puJhiArAIquQKBgQDxBn5l8rNtb/Dq6969EnsfibYeBoJtMxQ3\nGzGq+BefkcTiXHXbbzHUM9pX5ytlhKaq7YkPrRQ0oV6OyBhVcfbByskU2ORy/171\nClYiOjB2XtZYSTTXHU18xjPgo811Lu+tvJ/gOQhk8B5dCNbkvCasbwMc8vifCNio\nS3DOFZZ2CQKBgQDSMAsPk2vwa5kc/kmJ9mUTWIDztA5rm+AB7QXMXp6exWOMnQS7\nLuZllfrFb8Fkrprp/2hdvD7wGBpfbJdp+u71Aul/n9JSANV7djd5IXwjnObyW4r9\nSz5xqFqe+sl1BeDEPPwxpO1su8wbDeZObn/TRKbtJwa24Q4ayeQWryQAcQKBgQDG\nqXWRjkQ6VeQbniLPcOYvDpEfmnnyjAGDklST+T1vdvTzJwa1wacuoza68X2hhX7i\nsDsiwqQ+5StNQLxd4TtkbELlfgh+iOK50rVALPo49t5xkpWNIUf3Kl8kL59vkSpY\n53pXlGrI1+oPAPQvQK4XvsCwIcyvONlrjhMCqmSEEQKBgQDyOi4A5H06ti6A/xOQ\n+toIeVvwdvn2GuvJp5w2I+XJvHM7NKcuQJs+Y1QLyVc8hierYNaveefym0e++1P4\nw1ptkbimeO0v/0MiH4+I3BWeiX3GbFrTHMEAqvEChpYaz5G+l/S43XRmC+Ws/f8h\nacafSFx4iSdxF2l2rYYuphQkBw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kkarir@symmetric-lotus-412411.iam.gserviceaccount.com",
+  "client_id": "101620146657328623318",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kkarir%40symmetric-lotus-412411.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
