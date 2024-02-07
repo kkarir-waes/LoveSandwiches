@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-This is the <em>Love Sandwiches</em> walkthroup project from Code Institute.The project demonstrates how to create a Google spreadsheet on the cloud and then read and write to it using Google APIs with Python code. The program code is in <em>run.py</em>. 
+This is the <em>Love Sandwiches</em> walkthrough project from Code Institute.The project demonstrates how to create a Google spreadsheet on the cloud and then read and write to it using Google APIs with Python code. The program code is in <em>run.py</em>. 
 
 Use the CI template to create your GitHub repo, and then open it with GitPod or VSCode.
 
